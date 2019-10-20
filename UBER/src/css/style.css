@@ -94,7 +94,7 @@ nav {
 
     .promo {
         min-height: 800px;
-        background: url(/src/img/bg-car.png) center center/cover no-repeat;
+        background: url(../img/bg-car.png) center center/cover no-repeat;
         padding: 150px 0 135px 0;
     }
 
